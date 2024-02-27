@@ -8,13 +8,13 @@ Selamat datang di profil github saya! Saya adalah seorang mahasiswa Teknik Infor
 - SMA Negeri 1 Soreang
 
 ## Proyek dan Kontribusi
-Saya telah berkontribusi menjadi ketua Proyek penggembangan game tictactoe menggunakan bahasa c.
+- Saya telah berkontribusi menjadi ketua Proyek penggembangan game tictactoe menggunakan bahasa c.
 
 ## Menghubungi Saya
 Anda dapat menghubungi saya melalui:
 - Email: arynifar85@gmail.com
 
-Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
+Terima kasih telah mengunjungi profil saya!
 
 <!--
 **FaridaAryani/FaridaAryani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
